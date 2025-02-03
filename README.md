@@ -3,13 +3,13 @@
 
 **_About Me_**
 
-I'm an upcoming 4th-year Statistics major with a minor in Economics. 
+I'm a 4th-year Statistics major with a minor in Economics. 
 My academic journey began with a focus on mathematics and economics, but as I went further, I discovered my true passion lies in statistics. 
 This field allows me to explore how data and numbers relate to real-world scenarios, enabling me to communicate these findings effectively. 
 
-✨Currently, I’m boosting my technical toolkit by **self-learning SQL**, **Advanced Python**, and **PowerBI**
+✨Currently, I’m boosting my technical toolkit by **self-learning SQL**, **Advanced Python**, **R**, and **PowerBI**
 
-✨I have a solid foundation in **Python**, **Java** and **C**, focusing on **abstract data types and algorithms**, skills I developed through my coursework in computational mathematics at school
+✨I have a solid foundation in **Python**, **Java** and **R**, focusing on **abstract data types and algorithms**, skills I developed through my coursework in computational mathematics at school
 
 
 _**Goals**_
@@ -18,11 +18,6 @@ As I build a portfolio that shows my background to transform complex data into c
 I want to connect with people who are passionate about sharing their thoughts/interested to someone like me.
 I believe in using data not just to understand what makes the world worse, but to figure out how we can make it better.
 
-
-_**Projects**_
-
-My curiosity is understanding how global economic conditions and workforce changes affect our lives. 
-I have an ongoing **SQL project** but I will update it ASAP
 
 _If you wanna talk about stat, econ, data analysis, or some tips of live, just reach out to me !!!!_
 
